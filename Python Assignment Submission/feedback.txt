@@ -1,0 +1,4 @@
+S03,the lecturer teaches too fast for me to keep up
+S04,im loving this course
+S05,lecturer doesn't speak English proficiently
+S01,My lecturer Dr.Strange is very patient when explaining things I don't understand in class to me

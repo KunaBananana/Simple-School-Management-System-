@@ -1,0 +1,6 @@
+T01,Dr.Strange,timestone
+T02,Prof.X,xmen
+T03,Mr.Seuss,lorax
+T05,Dr.Octopus,spiderman
+T06,Prof.Freddie,queen
+T07,Mr.Prince,nelson
